@@ -16,3 +16,7 @@
 .imgg {
   width: 90px;
 }
+
+.carousel-item img {
+  height: 600px;
+}
