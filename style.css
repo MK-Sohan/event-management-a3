@@ -1,5 +1,5 @@
 .fa-check-circle {
-  color: royalblue;
+  color: rgb(2, 6, 19);
 }
 
 .card {
@@ -19,4 +19,9 @@
 
 .carousel-item img {
   height: 600px;
+}
+.badge {
+  font-size: 15px;
+  position: relative;
+  margin-left: 180px;
 }
